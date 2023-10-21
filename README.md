@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hello devs</h1>
+
+<div style="display: inline_block" align="center">
+  
+![img gif](https://media.tenor.com/zXfxt7qdC5QAAAAC/gojo-satoru-jujutsu-kaisen.gif)
+
+dudu aqui
 
 <!--
 **dudu1502/dudu1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
